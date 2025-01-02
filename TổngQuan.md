@@ -46,6 +46,7 @@ Các chức năng chung:
 - MySQL
 - HTML
 - CSS
+- Bootstrap 5
 
 ## Manual - Hướng dẫn sử dụng
 
